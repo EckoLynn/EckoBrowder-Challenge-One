@@ -3,7 +3,7 @@
     padding: 0;
     margin: 0;
 }
-
+/* background for body */
 body {
     background-color: #d9dcd6;
 }
@@ -14,7 +14,7 @@ body {
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* inline-block treats the element like other inline elements but allows the use of block properties */
 .header h1 {
     display: inline-block;
     font-size: 48px;
